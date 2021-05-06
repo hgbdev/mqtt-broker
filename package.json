@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aedes": "^0.42.0",
+    "aedes": "^0.42.1",
     "mongodb": "^3.5.4",
     "mongoose": "^5.9.3",
     "mosca": "^2.8.3",
